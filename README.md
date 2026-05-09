@@ -1,10 +1,10 @@
-<img width="1600" height="1200" alt="iot2" src="https://github.com/user-attachments/assets/05411600-d13c-470e-a3e6-e0bf8eb44d90" /># EXPERIMENT-04-INTERRUPT-GENERATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
+# EXPERIMENT-04-INTERRUPT-GENERATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
 
-###  DATE: 
+###  DATE: 9-5-2026
 
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+###  NAME: Deepshika hemanth kumar
+###  ROLL NO : 212224220020
+###  DEPARTMENT: IT
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
