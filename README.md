@@ -332,11 +332,17 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of serial port utility   :
+
+<img width="1914" height="1079" alt="Screenshot 2026-05-22 103201" src="https://github.com/user-attachments/assets/013eae04-3b21-4022-89d9-f7f50228f371" />
+
  
 <img width="1918" height="1078" alt="Screenshot 2026-05-07 163229" src="https://github.com/user-attachments/assets/be49f2fd-b736-4d28-b21c-8b5e38ba96ea" />
 
  
  ## Circuit board :
+
+ <img width="1600" height="1200" alt="WhatsApp Image 2026-05-22 at 10 34 44 AM" src="https://github.com/user-attachments/assets/c5c50857-305d-490e-932d-53779703bf8b" />
+
 
  <img width="1600" height="1200" alt="iot2" src="https://github.com/user-attachments/assets/5f335697-fa26-43e1-8ad7-9aed248fd415" />
  
