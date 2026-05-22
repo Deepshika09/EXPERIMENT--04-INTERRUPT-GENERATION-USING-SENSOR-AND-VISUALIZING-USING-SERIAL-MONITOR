@@ -333,8 +333,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of serial port utility   :
 
+4A:
+
 <img width="1914" height="1079" alt="Screenshot 2026-05-22 103201" src="https://github.com/user-attachments/assets/013eae04-3b21-4022-89d9-f7f50228f371" />
 
+4B:
  
 <img width="1918" height="1078" alt="Screenshot 2026-05-07 163229" src="https://github.com/user-attachments/assets/be49f2fd-b736-4d28-b21c-8b5e38ba96ea" />
 
